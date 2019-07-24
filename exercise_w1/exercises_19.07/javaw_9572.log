@@ -1,0 +1,9 @@
+---
+VM version: May  6 2019 13:12:21 - 81_REL - optU - windows amd64 - 6 - bas2:315134 (mixed mode)
+
+Time:2019-07-1911:02:51
+Pid: 9572
+Hostname: SOFN33782119A
+current dir: C:\Users\c5292761\eclipse-workspace\zadachi_19.07
+---
+   :    [13288] 11:02:51 ***ERROR (:0): Java assert: "" in junit.framework.Assert.assertEquals(Assert.java:100)

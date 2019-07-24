@@ -1,0 +1,9 @@
+---
+VM version: May  6 2019 13:12:21 - 81_REL - optU - windows amd64 - 6 - bas2:315134 (mixed mode)
+
+Time:2019-07-1909:59:17
+Pid: 5224
+Hostname: SOFN33782119A
+current dir: C:\Users\c5292761\eclipse-workspace\zadachi_19.07
+---
+   :    [14496] 09:59:17 ***ERROR (:0): Java assert: "expected:<[Ljava.lang.String;@fad74ee> but was:<[Ljava.lang.String;@1a1d6a08>" in junit.framework.Assert.fail(Assert.java:57)
